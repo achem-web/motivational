@@ -1,0 +1,24 @@
+{
+  "name": "motivationalnpm-init--y",
+  "version": "1.0.0",
+  "description": "A motivational message generator app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "build": "echo 'No build command for this app'"
+  },
+  "dependencies": {
+    "axios": "^0.21.4",
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "engines": {
+    "node": "22.x"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
